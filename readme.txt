@@ -33,6 +33,8 @@ OnWebChat is a web app that makes it easy for website owners to chat with their 
 
 * 100% free accounts available, along with optional paid plans
 
+You need any assistance? Feel free to chat with us on [OnWebChat] (https://www.onwebchat.com "OnWebChat Home Page")
+
 == Installation ==
 
 1. Install and activate plugin.
