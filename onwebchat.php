@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: OnWebChat Live Chat
+Plugin Name: onWebChat Live Chat
 Plugin URI: https://www.onwebchat.com/wp_plugin.php
-Description: OnWebChat is a live chat system, that helps you communicate with your website's visitors.
-Author: OnWebChat
-Version: 1.0
+Description: onWebChat is a live chat system, that helps you communicate with your website's visitors.
+Author: onWebChat
+Version: 1.0.1
 Author URI: https://www.onwebchat.com
 */
 
@@ -22,14 +22,14 @@ add_action('wp_footer', 'onwebchat_add_script_at_footer');
 
 // add menu page on admin menu with function onwebchat_init_menu_page()
 function onwebchat_setup_menu() {
-	add_menu_page( 'OnWebChat Settings', 'OnWebChat', 'administrator', 'onwebchat_settings', 'onwebchat_init_menu_page', ONWEBCHAT_SMALL_LOGO);
+	add_menu_page( 'onWebChat Settings', 'onWebChat', 'administrator', 'onwebchat_settings', 'onwebchat_init_menu_page', ONWEBCHAT_SMALL_LOGO);
 }
 
 // display admin option page
 function onwebchat_init_menu_page() {
 ?>
 <div>
-	<h2>OnWebChat Settings Page</h2>
+	<h2>onWebChat Settings Page</h2>
 </br>
 	<form action="options.php" method="post">
 		<?php settings_fields('onwebchat_plugin_option'); ?>
@@ -45,15 +45,17 @@ function onwebchat_init_menu_page() {
 function onwebchat_register_setttings() {
 	register_setting( 'onwebchat_plugin_option', 'onwebchat_plugin_option', 'plugin_options_validate' );
 	//* plugin
-	add_settings_section('plugin_main', 'Install Chat Widget', 'onwebchat_section_text', 'onwebchat_plugin');	
+	add_settings_section('plugin_main', 'To install Chat Widget:', 'onwebchat_section_text', 'onwebchat_plugin');
 	//* plugin
 	add_settings_field('plugin_text_string', 'Chat Id:', 'onwebchat_setting_field_text', 'onwebchat_plugin', 'plugin_main');
 }
 
 // prints the text of sections
 function onwebchat_section_text() {
-	echo '<p>To install OnWebChat on your Wordpress site please insert the Chat Id to the following field.</p>'.
-	'<p>You will find Chat Id in settings-page of OnWebChat admin, <a href="https://www.onwebchat.com/login.php" target="_blank">OnWebChat - Admin</a> </p>';
+	echo '<p>If you don\'t have an account on onWebChat live chat service create one <a href="https://www.onwebchat.com/signup.php" target="_blank">here</a></p>'.
+        '<p>To install onWebChat on your Wordpress site please insert the Chat Id to the following field.</p>'.
+	'<p>You will find Chat Id in settings-page of onWebChat admin, login <a href="https://www.onwebchat.com/login.php" target="_blank">here</a> </p>'.
+    '<p>[You can customize chat widget appearance from settings admin page]</p>';
 }
 
 // print the text of section field
