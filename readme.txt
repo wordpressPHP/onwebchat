@@ -3,7 +3,7 @@ Contributors: onwebchat_dev
 Tags: live chat, live support, chat plugin, online chat, support plugin, contact us, customer support, free chat, chat software, live chat service, live chat software, live chatting, live help, live web chat, livechat, online support, php live chat, html chat, javascript chat, support software, website chat, wordpress chat, wordpress live chat, wordpress live chat plugin, OnWebChat live chat, onWebChat
 Requires at least: 3.1
 Tested up to: 4.2.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,7 +33,7 @@ OnWebChat is a web app that makes it easy for website owners to chat with their 
 
 * 100% free accounts available, along with optional paid plans
 
-You need any assistance? Feel free to chat with us on [OnWebChat] (https://www.onwebchat.com "OnWebChat Home Page")
+You need any assistance? Feel free to chat with us on [OnWebChat Home Page](https://www.onwebchat.com "OnWebChat Home Page")
 
 == Installation ==
 
