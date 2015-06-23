@@ -3,7 +3,7 @@ Contributors: onwebchat_dev
 Tags: live chat, live support, chat plugin, online chat, support plugin, contact us, customer support, free chat, chat software, live chat service, live chat software, live chatting, live help, live web chat, livechat, online support, php live chat, html chat, javascript chat, support software, website chat, wordpress chat, wordpress live chat, wordpress live chat plugin, onwebchat live chat, onWebChat
 Requires at least: 3.1
 Tested up to: 4.2.2
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,7 +37,7 @@ You need any assistance? Feel free to chat with us on [onwebchat Home Page](http
 
 == Installation ==
 
-1. Create an account on onWebChat [onwebchat Sign Up](https://www.onwebchat.com/signup.php "onwebchat Sign Up")
+1. [Create](https://www.onwebchat.com/signup.php "onwebchat Sign Up") an account on onWebChat.
 2. Go to Settings page and copy the "Chat Id".
 3. Install and activate plugin.
 4. Paste the "Chat Id" to the field and Click "Save Changes".
