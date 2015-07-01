@@ -1,50 +1,59 @@
-=== onwebchat Live Chat ===
+=== onWebChat Live Chat ===
 Contributors: onwebchat_dev
 Tags: live chat, live support, chat plugin, online chat, support plugin, contact us, customer support, free chat, chat software, live chat service, live chat software, live chatting, live help, live web chat, livechat, online support, php live chat, html chat, javascript chat, support software, website chat, wordpress chat, wordpress live chat, wordpress live chat plugin, onwebchat live chat, onWebChat
 Requires at least: 3.1
 Tested up to: 4.2.2
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-onwebchat is a fast growing live chat software that allows businesses to contact with their customers in real time. Sign up and use our free version!
+onWebChat is a fast growing live chat software that allows businesses to contact with their customers in real time. Sign up and use our free version!
 
 == Description ==
 
-onwebchat is a web app that makes it easy for website owners to chat with their visitors from anywhere! When users create an account and activate our simple, lightweight plugin for WordPress, they'll be able to design fully-customized chat widgets that automatically appear on their site. Other features are:
+Talk with your website visitors in real-time, monitor site traffic, provide better support and increase your sales! 
+
+onWebChat plugin for WordPress provides an easy way to integrate your WordPress website with our live chat system.
+
+Start right now! it only takes one minute, just activate the plugin and sign up on our service : www.onwebchat.com
+
+100% free plan available and now we offer Premium plan for free until 30/11/15! 
+
+
+FEATURE LIST: 
 
 * Fully customizable chat widget 
 
-* Support visitors on the go with a responsive admin enviroment
+* Support visitors on the go
 
-* List of online visitors, with the ability to start a chat
+* Geolocation data of visitors
 
-* Geolocation data for users -- know where your visitors are from!
+* Ban visitors
 
-* Ban users
+* Save visitors details
 
-* Save user info for later use
+* Add text shortcuts
 
-* Full chat history, View user history on chat window
+* Full chat history 
 
-* Visitors can leave contact info when you're not online
+* Multiple operators 
 
-* Customizable canned responses for common questions
+* Sound / Desktop notifications 
 
-* 100% free accounts available, along with optional paid plans
+* Offline Form
 
-You need any assistance? Feel free to chat with us on [onwebchat Home Page](https://www.onwebchat.com "onwebchat Home Page")
+You need any assistance? Feel free to chat with us on [onWebChat Home Page](https://www.onwebchat.com "onWebChat")
 
 == Installation ==
 
-1. [Create](https://www.onwebchat.com/signup.php "onwebchat Sign Up") an account on onWebChat.
+1. [Create](https://www.onwebchat.com/signup.php "onWebChat Sign Up") an account on onWebChat.
 2. Go to Settings page and copy the "Chat Id".
 3. Install and activate plugin.
 4. Paste the "Chat Id" to the field and Click "Save Changes".
 
 == Frequently Asked Questions ==
 
-= Do I have to pay for onwebchat? =
+= Do I have to pay for onWebChat? =
 
 No, there is a free plan that you can use.
 
@@ -58,7 +67,7 @@ You can change all your widget settings from your [onWebChat Admin Page](https:/
 
 == Usage ==
 
-After enabling the plug in, login to onwebchat admin webpage. Go to the Settings webpage to customize the chat widget and integrate its look and feel to match your site. You are ready now to chat with your visitors. 
+After enabling the plug in, login to onWebChat admin webpage. Go to the Settings webpage to customize the chat widget and integrate its look and feel to match your site. You are ready now to chat with your visitors. 
 
 == Screenshots ==
 
