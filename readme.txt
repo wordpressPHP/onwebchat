@@ -3,7 +3,7 @@ Contributors: onwebchat_dev
 Tags: live chat, live support, chat plugin, online chat, support plugin, contact us, customer support, free chat, chat software, live chat service, live chat software, live chatting, live help, live web chat, livechat, online support, php live chat, html chat, javascript chat, support software, website chat, wordpress chat, wordpress live chat, wordpress live chat plugin, onwebchat live chat, onWebChat
 Requires at least: 3.1
 Tested up to: 4.2.2
-Stable tag: 1.0.7
+Stable tag: 1.0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,9 +15,9 @@ Talk with your website visitors in real-time, monitor site traffic, provide bett
 
 onWebChat plugin for WordPress provides an easy way to integrate your WordPress website with our live chat system.
 
-Start right now! it only takes one minute, just activate the plugin and sign up on our service : www.onwebchat.com
+Start now! it only takes a minute, just activate the plugin and sign up for our service : www.onwebchat.com
 
-100% free plan available and now we offer Premium plan for free until 30/11/15! 
+100% free plan available and now we are offering our Premium plan for free until 30/11/15! 
 
 
 FEATURE LIST: 
