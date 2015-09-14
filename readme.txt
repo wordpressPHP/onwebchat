@@ -3,7 +3,7 @@ Contributors: onwebchat_dev
 Tags: live chat, live support, chat plugin, online chat, support plugin, contact us, customer support, free chat, chat software, live chat service, live chat software, live chatting, live help, live web chat, livechat, online support, php live chat, html chat, javascript chat, support software, website chat, wordpress chat, wordpress live chat, wordpress live chat plugin, onwebchat live chat, onWebChat
 Requires at least: 3.1
 Tested up to: 4.3
-Stable tag: 1.0.11
+Stable tag: 1.0.12
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,7 +44,7 @@ You need any assistance? Feel free to chat with us on [onWebChat](https://www.on
 
 1. [Create](https://www.onwebchat.com/signup.php "onWebChat Sign Up") an account on onWebChat.
 2. Go to Settings page and copy the "Chat Id".
-3. Install and activate plugin.
+3. Install and activate the onWebChat plugin.
 4. Paste the "Chat Id" to the field and Click "Save Changes".
 
 == Frequently Asked Questions ==
@@ -73,10 +73,6 @@ Yes, simply click on a visitor from the visitors list.
 
 Yes, just check the "hide chat widget.." in your admin page.
 
-== Usage ==
-
-After enabling the plug in, login to onWebChat admin webpage. Go to the Settings webpage to customize the chat widget and integrate its look and feel to match your site. You are ready now to chat with your visitors. 
-
 == Screenshots ==
 
 1. Chat widget on wordpress site
@@ -85,7 +81,3 @@ After enabling the plug in, login to onWebChat admin webpage. Go to the Settings
 
 3. Operator dashboard
 
-== Changelog ==
-
-= 1.0 =
-* Plugin launch.
