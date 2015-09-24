@@ -41,6 +41,8 @@ FEATURES:
 
 You need any assistance? Feel free to chat with us on [onWebChat](https://www.onwebchat.com "onWebChat Home Page")
 
+If you like this plugin please Rate us to help us improve.
+
 == Installation ==
 
 1. [Create](https://www.onwebchat.com/signup.php "onWebChat Sign Up") an account on onWebChat.
