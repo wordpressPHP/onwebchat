@@ -2,7 +2,7 @@
 Contributors: onwebchat_dev
 Tags: chat, live chat, live support, chat plugin, online chat, support plugin, contact us, customer support, free chat, chat software, live chat service, live chat software, live chatting, live help, live web chat, livechat, online support, php live chat, html chat, javascript chat, support software, website chat, wordpress chat, live chat inc, wordpress live chat, wordpress live chat plugin, contact us plugin, live chatting, onwebchat live chat, onWebChat
 Requires at least: 3.1
-Tested up to: 4.3
+Tested up to: 4.3.1
 Stable tag: 1.0.13
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -37,11 +37,11 @@ FEATURES:
 * Offline form, when you are not online
 * Easy File Sharing with your visitors
 * SSL/Data security
-* Free plan available for ever
+* Free plan available for ever!
 
 You need any assistance? Feel free to chat with us on [onWebChat](https://www.onwebchat.com "onWebChat Home Page")
 
-If you like this plugin please Rate us to help us improve.
+If you like this plugin please rate us to help us improve.
 
 == Installation ==
 
@@ -54,8 +54,10 @@ If you like this plugin please Rate us to help us improve.
 
 = Do I have to pay for onWebChat? =
 
-No, there is a free plan that you can use for ever.
-After 1st December, 2 low cost plans will be available.
+No, there will be a free plan that you can use for ever.
+Now all users have the Premium plan for free untill 1st December.
+After 1st December, there will be the free plan and 2 other low cost plans will be available.
+Please visit our pricing page  [pricing page](https://www.onwebchat.com/pricing.php "pricing page").
 
 = Do I have to install any extra software? =
 
