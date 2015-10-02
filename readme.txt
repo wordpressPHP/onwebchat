@@ -1,6 +1,6 @@
-=== onWebChat - Free Live Chat ===
+=== Free Live Chat - Live Support ===
 Contributors: onwebchat_dev
-Tags: chat, live chat, live support, chat plugin, online chat, support plugin, contact us, customer support, free chat, chat software, live chat service, live chat software, live chatting, live help, live web chat, livechat, online support, php live chat, html chat, javascript chat, support software, website chat, wordpress chat, live chat inc, wordpress live chat, wordpress live chat plugin, contact us plugin, live chatting, onwebchat live chat, onWebChat
+Tags: chat, live chat, live support, chat plugin, assistance, online chat, support plugin, sales support, contact us, customer support, free chat, chat software, live chat service, customer help, customer service, live chat software, help desk, live chatting, live help, bbPress chat, live web chat, livechat, online support, php live chat, html chat, javascript chat, support software, website chat, chat tool, wordpress chat, live chat inc, wordpress live chat, wordpress live chat plugin, contact us plugin, live chatting, onwebchat live chat, onWebChat
 Requires at least: 3.1
 Tested up to: 4.3.1
 Stable tag: 1.0.13
@@ -21,9 +21,9 @@ Plus, we're offering our Premium plan for free until 30th November 2015!
 Start now! It takes less than a minute, just install the plugin and sign up for our service: http://www.onwebchat.com
 
 
-FEATURES: 
+= FEATURES =
 
-* Fully customizable chat widget (colors, size, texts)
+* Fully customizable chat widget (colors, size, position, texts)
 * Visitor monitoring - keep track of your visitors
 * Chat with any of your website visitor
 * Geolocation data of visitors
@@ -36,7 +36,7 @@ FEATURES:
 * Sound / Desktop notifications 
 * Offline form, when you are not online
 * Easy File Sharing with your visitors
-* SSL/Data security
+* SSL/Data security 
 * Free plan available for ever!
 
 You need any assistance? Feel free to chat with us on [onWebChat](https://www.onwebchat.com "onWebChat Home Page")
