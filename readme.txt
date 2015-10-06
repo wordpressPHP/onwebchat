@@ -46,7 +46,7 @@ If you like this plugin please rate us to help us improve.
 == Installation ==
 
 1. [Create](https://www.onwebchat.com/signup.php "onWebChat Sign Up") an account on onWebChat.
-2. Go to Settings page and copy the "Chat Id".
+2. Login to operator console, go to "Settings" page and copy the "Chat Id" key.
 3. Install and activate the onWebChat plugin.
 4. Paste the "Chat Id" to the field and Click "Save Changes".
 
