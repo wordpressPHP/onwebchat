@@ -28,7 +28,7 @@ Start now! It takes less than a minute, just install the plugin and sign up for 
 * Chat with any of your website visitor
 * Geolocation data of visitors
 * Block/unblock visitors
-* Text shortcuts for common questions
+* Text shortcuts (canned responses)
 * Full chat transcript history 
 * Multiple operators 
 * Install on multiple websites
