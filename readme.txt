@@ -39,6 +39,8 @@ Start now! It takes less than a minute, just install the plugin and sign up for 
 * SSL/Data security 
 * Free plan available for ever!
 
+New features will be available soon!
+
 You need any assistance? Feel free to chat with us on [onWebChat](https://www.onwebchat.com "onWebChat Home Page")
 
 If you like this plugin please rate us to help us improve.
