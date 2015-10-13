@@ -49,10 +49,12 @@ If you like this plugin please rate us to help us improve.
 
 == Installation ==
 
-1. [Create](https://www.onwebchat.com/signup.php "onWebChat Sign Up") an account on onWebChat.
-2. Login to operator console, go to "Settings" page and copy the "Chat Id" key.
-3. Install and activate the onWebChat plugin.
-4. Paste the "Chat Id" to the field and Click "Save Changes".
+1. Install and activate the onWebChat plugin. 
+2. [Create](https://www.onwebchat.com/signup.php "onWebChat Sign Up") an account on onWebChat service. 
+3. Connect plugin to your onWebChat account, using your email and password. 
+4. Live chat widget is already on your website! 
+
+*If you cannot connect to your account using email/password, please connect using the Chat Id (you can find it at operator console or registration email)
 
 == Frequently Asked Questions ==
 
