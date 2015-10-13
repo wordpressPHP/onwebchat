@@ -3,7 +3,8 @@ Contributors: onwebchat_dev
 Tags: chat, live chat, live support, chat plugin, assistance, online chat, support plugin, sales support, contact us, customer support, free chat, chat software, live chat service, customer help, customer service, live chat software, help desk, live chatting, live help, bbPress chat, live web chat, livechat, online support, php live chat, html chat, javascript chat, support software, website chat, chat tool, wordpress chat, live chat inc, wordpress live chat, wordpress live chat plugin, contact us plugin, live chatting, onwebchat live chat, onWebChat
 Requires at least: 3.1
 Tested up to: 4.3.1
-Stable tag: 1.0.13
+Stable tag: 2.0.0
+
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,6 +26,7 @@ Start now! It takes less than a minute, just install the plugin and sign up for 
 
 * Fully customizable chat widget (colors, size, position, texts)
 * Visitor monitoring - keep track of your visitors
+* Triggers - automatically initiate chat with visitors
 * Chat with any of your website visitor
 * Geolocation data of visitors
 * Block/unblock visitors
@@ -83,6 +85,10 @@ Yes, just check the "hide chat widget.." in your admin page.
 The chat widget will be hidden when all operators are offline
 or have select "invisible" status.
 
+= Cannot connect to my account using email/password =
+
+It may happen when the outgoing connections are blocked (from a firewall for example). In this case you can connect by copy paste you onWebChat Chat Id from the operator console to the plugin form.
+
 == Screenshots ==
 
 1. onWebChat widget on WordPress website
@@ -90,4 +96,6 @@ or have select "invisible" status.
 2. Operator chatting with a visitor
 
 3. Operator dashboard main page
+
+4. Operator visitors list
 
