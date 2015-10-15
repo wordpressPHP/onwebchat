@@ -1,6 +1,6 @@
 === Free Live Chat - Live Support ===
 Contributors: onwebchat_dev
-Tags: chat, live chat, live support, chat plugin, assistance, online chat, support plugin, sales support, contact us, customer support, free chat, chat software, live chat service, customer help, customer service, live chat software, help desk, live chatting, live help, bbPress chat, live web chat, livechat, online support, php live chat, html chat, javascript chat, support software, website chat, chat tool, wordpress chat, live chat inc, wordpress live chat, wordpress live chat plugin, contact us plugin, live chatting, onwebchat live chat, onWebChat
+Tags: chat, live chat, live support, live chat plugin, assistance, online chat, support plugin, sales support, contact us, customer support, free chat, chat software, live chat service, customer help, customer service, live chat software, help desk, live chatting, live help, bbPress chat, live web chat, livechat, online support, php live chat, html chat, javascript chat, support software, website chat, chat tool, wordpress chat, live chat inc, wordpress live chat, wordpress live chat plugin, contact us plugin, live chatting, onwebchat live chat, onWebChat
 Requires at least: 3.1
 Tested up to: 4.3.1
 Stable tag: 2.0.0
@@ -14,7 +14,7 @@ Free Live Chat plugin for your website. Install it in less than a minute, and ch
 
 Chat with your website visitors in real-time, monitor site traffic, provide better support and increase your sales!
 
-onWebChat plugin for WordPress provides an easy way to integrate your WordPress website with our innovative live chat system.
+onWebChat live chat plugin for WordPress provides an easy way to integrate your WordPress website with our innovative live chat system.
 
 100% free plan available for ever.
 Plus, we're offering our Premium plan for free until 30th November 2015!
@@ -24,7 +24,7 @@ Start now! It takes less than a minute, just install the plugin and sign up for 
 
 = FEATURES =
 
-* Fully customizable chat widget (colors, size, position, texts)
+* Fully customizable live chat widget (colors, size, position, texts)
 * Visitor monitoring - keep track of your visitors
 * Triggers - automatically initiate chat with visitors
 * Chat with any of your website visitor
@@ -41,7 +41,7 @@ Start now! It takes less than a minute, just install the plugin and sign up for 
 * SSL/Data security 
 * Free plan available for ever!
 
-New features will be available soon!
+New live chat features will be available soon!
 
 You need any assistance? Feel free to chat with us on [onWebChat](https://www.onwebchat.com "onWebChat Home Page")
 
@@ -50,7 +50,7 @@ If you like this plugin please rate us to help us improve.
 == Installation ==
 
 1. Install and activate the onWebChat plugin. 
-2. [Create](https://www.onwebchat.com/signup.php "onWebChat Sign Up") an account on onWebChat service. 
+2. [Create](https://www.onwebchat.com/signup.php "onWebChat Sign Up") an account on onWebChat live chat service. 
 3. Connect plugin to your onWebChat account, using your email and password. 
 4. Live chat widget is already on your website! 
 
@@ -83,17 +83,17 @@ Yes, simply click on a visitor from the visitors list.
 
 = Can I hide chat’s widget when I am offline? =
 
-Yes, just check the "hide chat widget.." in your admin page.
+Yes, just check the "hide chat widget.." at operator's console.
 The chat widget will be hidden when all operators are offline
 or have select "invisible" status.
 
 = Cannot connect to my account using email/password =
 
-It may happen when the outgoing connections are blocked (from a firewall for example). In this case you can connect by copy paste you onWebChat Chat Id from the operator console to the plugin form.
+It may happen when the outgoing connections are blocked (from a firewall for example). In this case you can connect by copy paste your onWebChat Chat Id from the operator console to the plugin form.
 
 == Screenshots ==
 
-1. onWebChat widget on WordPress website
+1. onWebChat live chat widget on WordPress website
 
 2. Operator chatting with a visitor
 
