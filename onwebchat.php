@@ -4,7 +4,7 @@ Plugin Name: onWebChat Live Chat
 Plugin URI: https://www.onwebchat.com/wp_plugin.php
 Description: onWebChat is a live chat system, that helps you communicate with your website's visitors.
 Author: onWebChat
-Version: 2.0.0
+Version: 2.0.1
 Author URI: https://www.onwebchat.com
 */
 
@@ -79,8 +79,9 @@ function onwebchat_init_menu_page() {
 		$isSecondPage = $_POST["isSecondPage"];
 	
 		// if user give chatId save it directly
-		if($chatId != '') {
-			
+		
+		if(isChatIdValid($chatId)) {
+
 			//----------- update chatId option ------------
 			//Get entire array
 			$my_options = get_option('onwebchat_plugin_option');
@@ -182,7 +183,7 @@ function onwebchat_init_menu_page() {
 	
 ?>
 <div>
-	<h2>onWebChat Settings</h2>
+	<h2>onWebChat <?php ($isConnected == true) ? print 'Settings' :  print 'Activation'; ?> </h2>
 </br>
 	<form action="admin.php?page=onwebchat_settings" method="post">
 		<input type="hidden" name="action" value="login">
@@ -194,7 +195,7 @@ function onwebchat_init_menu_page() {
 				//get chatId from db
 				$chatId = get_option( 'onwebchat_plugin_option' );
 				$chatId = $chatId['text_string'];
-			?>
+		?>
 				
 				<h3 class="header-1">Connect with your onWebChat account</h3>
 				
@@ -204,14 +205,15 @@ function onwebchat_init_menu_page() {
 				<div class="password-div">
 					<strong>Password: </strong><input class="password-text-field" type="password" name="onWebChatPass" value="<?php echo get_option( 'onWebChatPass' ); ?>"/>
 				</div>
-				
-				<h3 class="header-2">Or paste your onWebChat Chat Id</h3>
+				<h3 class="header-or">OR</h3>
+				<hr class="small-hr">
+				<h3 class="header-2">Paste your onWebChat Chat Id</h3>
 				<div class="chatid-div">
 					<strong>Chat Id:</strong> <input class="chatid-text-field" type="text" name="chatId" value="<?php echo $chatId; ?>"/>
 				</div>
 
 				<div class="new-account-link">
-					<strong>*</strong> If you don't have an account on onWebChat live chat service, you should create one <a href="https://www.onwebchat.com/signup.php" target="_blank">here</a>
+					<span class="info-star">*</span> If you don't have an account on onWebChat live chat service, you should create one <a href="https://www.onwebchat.com/signup.php" target="_blank">here</a>
 				</div>
 			<?php
 			}
@@ -234,7 +236,7 @@ function onwebchat_init_menu_page() {
 						$html .= "<strong class='account-id'>$chatId</strong> ";
 					}
 					$html .= ' <a href="admin.php?page=onwebchat_settings&amp;action=deactivate">Deactivate</a>';
-					$html .= ' <div> To connect on onWebChat operator console click <a target="_blank" href="https://www.onwebchat.com/login.php">here</a> </div>';
+					$html .= ' <div class="admin-login-info"> <span>*</span> To connect on onWebChat operator console click <a target="_blank" href="https://www.onwebchat.com/login.php">here</a> </div>';
 				echo $html;
 	
 				$checkBoxValue = checked(1, get_option('onwebchat_plugin_option_hide'), false);
@@ -260,7 +262,7 @@ function onwebchat_init_menu_page() {
 		
 		// Display the Save Button
 		$html = '<input class="button button-primary" type="submit" value="Save Changes"/>';
-		echo $html;
+		echo $html;	
 		?>
 	</form>
 </div>
@@ -349,13 +351,21 @@ function onwebchat_login_error($contition = false) {
     if($contition) {
 	?>
     <div class="error">
-        <p>Wrong Username or Password!</p>
+        <!--<p>Wrong Username or Password!</p>-->
+		<p><strong>Wrong credentials!</strong> Please enter correct <u>email and password</u> <strong>OR</strong> a valid <u>Chat Id</u>.</p>
     </div>
     <?php
 	}
 	else {
 		//display nothing
 	}
+}
+
+/************************************************************************
+ * Validate Chat Id function
+ ***********************************************************************/
+function isChatIdValid($input) {
+	return preg_match('/^[a-f0-9]{32,40}+[\\/]+[0-9]{1,2}+[\\/]+[0-9]{1,2}$/i', $input);
 }
 
 ?>

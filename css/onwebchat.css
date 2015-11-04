@@ -9,10 +9,23 @@
     margin-bottom: 30px;
 }
 
+.header-or {
+    color: #00A0D2;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    margin-left: 250px;
+    font-weight: 800;
+}
+
+.small-hr {
+    width: 580px;   
+    margin: 0;
+}
+
 .header-1-p2 {
     display: inline-block;
     margin-top: 10px;
-    margin-bottom: 30px;
 }
 
 .username-text-field {
@@ -31,7 +44,7 @@
 
 .chatid-div {
     margin-top: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
 }
 
 .chatid-text-field {
@@ -40,7 +53,6 @@
 }
 
 .hide-div {
-    margin-top: 30px;
     margin-bottom: 30px;
 }
 
@@ -50,12 +62,31 @@
 }
 
 .new-account-link {
-    margin-bottom: 20px;
+    position: relative;
+    top: 100px;
 }
 
 .chatid-text-field-hide {
     display: none;
 }
+
+.info-star {
+    color: #00A0D2;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.admin-login-info {
+    position: relative;
+    top: 150px;
+}
+
+.admin-login-info span {
+    color: #00A0D2;
+    font-size: 16px;
+    font-weight: bold;
+}
+
 
 #plugin_text_checkbox {
     margin-left: 10px;

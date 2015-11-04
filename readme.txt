@@ -3,7 +3,7 @@ Contributors: onwebchat_dev
 Tags: chat, live chat, live support, live chat plugin, assistance, online chat, support plugin, sales support, contact us, customer support, free chat, chat software, live chat service, customer help, customer service, live chat software, help desk, live chatting, live help, bbPress chat, live web chat, livechat, online support, php live chat, html chat, javascript chat, support software, website chat, chat tool, wordpress chat, live chat inc, wordpress live chat, wordpress live chat plugin, contact us plugin, live chatting, onwebchat live chat, onWebChat
 Requires at least: 3.1
 Tested up to: 4.3.1
-Stable tag: 2.0.0
+Stable tag: 2.0.1
 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -37,6 +37,7 @@ Start now! It takes less than a minute, just install the plugin and sign up for 
 * Chat widget language customization
 * Sound / Desktop notifications 
 * Offline form, when you are not online
+* Pre-Chat form
 * Easy File Sharing with your visitors
 * SSL/Data security 
 * Free plan available for ever!
@@ -45,7 +46,7 @@ New live chat features will be available soon!
 
 You need any assistance? Feel free to chat with us on [onWebChat](https://www.onwebchat.com "onWebChat Home Page")
 
-If you like this plugin please rate us to help us improve.
+If you like our live chat plugin please rate us to help us improve.
 
 == Installation ==
 
@@ -61,13 +62,13 @@ If you like this plugin please rate us to help us improve.
 = Do I have to pay for onWebChat? =
 
 No, there will be a free plan that you can use for ever.
-Now all users have the Premium plan for free untill 1st December.
-After 1st December, there will be the free plan and 2 other low cost plans will be available.
+Now all users are using the Premium plan for free untill 1st December.
+After 1st December, a free plan and 2 other low cost plans will be available.
 Please visit our  [pricing page](https://www.onwebchat.com/pricing.php "onWebChat pricing page").
 
 = Do I have to install any extra software? =
 
-No, you have to install this plugin and just sign up on onWebChat service.
+No, you have to install this plugin and just sign up on onWebChat live chat service.
 
 = How can I change the appearance of the widget on my page? =
 
