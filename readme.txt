@@ -64,7 +64,8 @@ If you like our live chat plugin please rate us to help us improve.
 No, there will be a free plan that you can use for ever.
 Now all users are using the Premium plan for free untill 1st December.
 After 1st December, a free plan and 2 other low cost plans will be available.
-Please visit our  [pricing page](https://www.onwebchat.com/pricing.php "onWebChat pricing page").
+All users will get Premium plan free trial for 1 month and then downgrade to free plan.
+Please visit our  [pricing page](https://www.onwebchat.com/pricing.php "onWebChat pricing page") for more info.
 
 = Do I have to install any extra software? =
 
